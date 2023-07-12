@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const raf = h => {\n  if (typeof __zone_symbol__requestAnimationFrame === 'function') {\n    return __zone_symbol__requestAnimationFrame(h);\n  }\n\n  if (typeof requestAnimationFrame === 'function') {\n    return requestAnimationFrame(h);\n  }\n\n  return setTimeout(h);\n};","map":null,"metadata":{},"sourceType":"module"}
