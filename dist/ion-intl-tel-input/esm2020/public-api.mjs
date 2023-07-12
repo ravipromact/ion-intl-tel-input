@@ -1,0 +1,8 @@
+/*
+ * Public API Surface of ion-intl-tel-input
+ */
+export * from './lib/ion-intl-tel-input.directive';
+export * from './lib/ion-intl-tel-input/ion-intl-tel-input.component';
+export * from './lib/models/ion-intl-tel-input.model';
+export * from './lib/ion-intl-tel-input.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2lvbi1pbnRsLXRlbC1pbnB1dC9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsb0NBQW9DLENBQUM7QUFDbkQsY0FBYyx1REFBdUQsQ0FBQztBQUN0RSxjQUFjLHVDQUF1QyxDQUFDO0FBQ3RELGNBQWMsaUNBQWlDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxyXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgaW9uLWludGwtdGVsLWlucHV0XHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvaW9uLWludGwtdGVsLWlucHV0LmRpcmVjdGl2ZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL2lvbi1pbnRsLXRlbC1pbnB1dC9pb24taW50bC10ZWwtaW5wdXQuY29tcG9uZW50JztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbW9kZWxzL2lvbi1pbnRsLXRlbC1pbnB1dC5tb2RlbCc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL2lvbi1pbnRsLXRlbC1pbnB1dC5tb2R1bGUnO1xyXG4iXX0=
